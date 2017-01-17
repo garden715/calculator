@@ -10,7 +10,8 @@ int main(int argc, char* argv[])
 	int number1, number2, result;
 	char operator;
 
-	printf("한글한글한글한글르르르르르 ");
+printf("inpuuuuuuuuuuuuuuuuuuuuuuuuuuuuut number ");
+
 	scanf("%d %c %d", &number1, &operator, &number2);
 
 	switch (operator)
